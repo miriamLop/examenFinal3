@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testClean.ContactTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-08T05:44:49" hostname="MELI" time="23.652">
+  <properties/>
+  <testcase name="verifyAddContact" classname="testClean.ContactTest" time="23.652"/>
+  <system-out><![CDATA[---Adicionando nuevo contacto----
+contacto Creado: Raul Perez
+Cerrando la aplicacion
+]]></system-out>
+  <system-err><![CDATA[oct 08, 2020 1:45:00 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
